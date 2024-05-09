@@ -10,7 +10,7 @@ import asyncio
 
 logging.basicConfig(level=logging.INFO)
 router: Router = Router()
-BOT_TOKEN = '6731303207:AAGspxk2oaHXBM4ZS_FUEwAFzeeHTVgAvNI'
+BOT_TOKEN = 'YOUR BOT TOKEN'
 
 # with sq.connect('database_players.db') as con:
 #     cur = con.cursor()
